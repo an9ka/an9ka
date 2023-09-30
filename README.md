@@ -1,4 +1,8 @@
 ### Hi there 👋
+<div align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kibrispdr.org%2Fdetail-1%2Fqa-animated-gif.html&psig=AOvVaw0OyYkA48jwpWc-XVqgXhrY&ust=1696159033406000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCWnvOa0oEDFQAAAAAdAAAAABAK" width="600" height="300"/>
+</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
