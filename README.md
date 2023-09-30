@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://cdn.pnghd.pics/data/1793/qa-animated-gif-1.gif" width="600" height="300"/>
 </div>
+---
 <a href="https://github.com/katringht">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=an9ka&layout=compact&theme=buefy" />
 </a>
